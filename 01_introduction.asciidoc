@@ -191,7 +191,7 @@ Aside from reducing the burden on nodes, payments on the Lightning Network are c
 
 While the Lightning Network was initially conceived for Bitcoin, it can be implemented on any blockchain that meets some basic technical requirements. Other blockchains, such as Litecoin, already support the Lightning Network. Additionally, several other blockchains are developing similar "second layer" or "layer 2" solutions to help them scale.
 
-=== The Lightning Network's defining features
+=== The Lightning Network's Defining Features
 
 The Lightning Network is a network that operates as a "second layer" protocol on top of Bitcoin and other blockchains. The Lightning Network enables fast, secure, private, trustless, and permissionless payments. Here are some of the features of the Lightning Network:
 
